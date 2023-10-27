@@ -7,6 +7,3 @@ console.log(randomnumber1, randomnumber2);
 const image1 = "../image/d" + randomnumber1 +".jpg";
 const image2 = "../image/d" + randomnumber2 +".jpg";
 
-const image1 = "../image/d" + randomnumber1 +".jpg";
-const image2 = "../image/d" + randomnumber2 +".jpg";
-
